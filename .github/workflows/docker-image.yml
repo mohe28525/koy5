@@ -1,4 +1,4 @@
-name: Build Docker Image
+name: kfrb
 on:
   workflow_dispatch:
 jobs:
